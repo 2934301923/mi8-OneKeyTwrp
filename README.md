@@ -16,5 +16,5 @@
 手机关机，同时按住开机键+音量下键直至屏幕亮起即进入成功！
 
 ### 联系我
-邮箱：hlyandroid@163.com
+邮箱：hlyandroid@163.com<br>
 Telegram：Mango2934301923
